@@ -1,0 +1,11 @@
+{
+  "name": "calculo_jub_militares_gt",
+  "version": "1.0.0",
+  "description": "Programa de consola para el calculo de las jubiliaciones militares en Guatemala",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
